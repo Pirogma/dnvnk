@@ -4,9 +4,7 @@
 
 body {
   font-family: 'Amatic SC', monospace;
-  background-image: url("images/bk1.gif");
-  background-repeat: repeat-y;
-  background-position: right;
+  background-image: url("images/bk.gif");
 }
 
 h1 {

@@ -3,8 +3,9 @@
 
 body {
   font-family: 'Amatic SC', monospace;
-  background-image: url("images/bw.gif");
-  background-size: cover;
+  background-image: url("images/bk1.gif");
+  background-repeat: no-repeat;
+  background-position: top;
 }
 
 h1 {
